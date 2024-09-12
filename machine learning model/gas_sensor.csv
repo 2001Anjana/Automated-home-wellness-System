@@ -1,0 +1,51 @@
+﻿Gas Value,Gas Increase Rate,Temperature,Gas,Fire state
+254,2,35,no gas,no fire
+233,6,27,no gas,no fire
+232,1,28,no gas,no fire
+350,66,42,co2,fire
+365,82,48,co2,fire
+344,23,38,co2,no fire
+355,56,44,co2,fire
+366,88,46,co2,fire
+358,93,42,co2,fire
+325,26,36,co2,no fire
+288,12,29,co2,no fire
+269,16,32,no gas,no fire
+222,1,26,no gas,no fire
+346,42,36,co2,no fire
+342,49,38,co2,fire
+398,93,44,butane,fire
+452,120,48,butane,fire
+458,96,49,butane,fire
+562,150,50,butane,fire
+572,140,34,butane,no fire
+532,132,46,butane,fire
+638,168,29,butane,no fire
+622,146,27,butane,no fire
+580,135,42,butane,fire
+640,185,46,butane,fire
+480,126,35,butane,no fire
+425,75,34,butane,no fire
+540,110,39,butane,fire
+225,1,26,no gas,no fire
+295,48,32,co2,no fire
+365,56,36,co2,fire
+375,42,42,co2,no fire
+420,62,44,butane,fire
+562,125,42,butane,fire
+621,120,46,butane,fire
+322,32,32,co2,no fire
+374,36,34,co2,no fire
+488,48,32,butane,no fire
+462,62,36,butane,fire
+245,26,26,no gas,no fire
+236,6,28,no gas,no fire
+346,12,32,co2,no fire
+388,68,39,butane,fire
+292,36,29,co2,no fire
+254,12,23,no gas,no fire
+368,48,34,butane,no fire
+436,26,36,butane,fire
+526,126,47,butane,fire
+612,150,48,butane,fire
+538,110,39,butane,fire
